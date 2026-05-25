@@ -40,3 +40,21 @@ button {
     padding: 20px;
     width: 200px;
 }
+
+table {
+    margin: 20px;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 20px auto;
+    gap: 10px;
+}
